@@ -1,4 +1,4 @@
-image: lorisleiva/laravel-docker:latest
+image: gleison/gtdeocker:latest
 
 cache:
   key: ${CI_COMMIT_REF_SLUG}
